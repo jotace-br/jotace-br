@@ -39,7 +39,6 @@ Tenho um sonho de trabalhar no exterior.
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jotace-br&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jotace-br&theme=tokyonight" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotace-br&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
   
   <pre>
