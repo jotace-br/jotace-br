@@ -18,7 +18,7 @@
 </pre>
 
   
-Estou trabalhando no momento na **XGrow, PxPay e EventX** 💻
+Estou trabalhando no momento na **Audora Tecnologia e Serviços** 💻
 
 Ensino médio cursado parte no **IFAL** e parte em ensino público.
 
