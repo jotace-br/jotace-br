@@ -52,7 +52,7 @@ Tenho um sonho de trabalhar no exterior.
 Login: jotace-br                        Name: Júlio César
 Directory: /home/jc                     Shell: /usr/bin/meow
 Project:
-  - XGrow, PxPay & EventX front-end developer
+  - Audora Tecnologia e Serviços front-end developer
   - Trabalhando em construir um portfólio para o futuro: <a href="https://www.pudim.com.br">por enquanto não tem nada :/</a>!
 Plano:
   Nunca parar de aprender \o/
