@@ -18,9 +18,9 @@
 </pre>
 
   
-Estou trabalhando no momento na **Audora Tecnologia e Serviços** 💻
+Estou no momento em busca de um emprego 💻
 
-Ensino médio cursado parte no **IFAL** e parte em ensino público.
+Estou cursando ADS (Análise e Desenvolvimento de Sistemas) no momento.
 
 Adoro aprender e compartilhar **conhecimento** 😎️
 
@@ -52,7 +52,7 @@ Tenho um sonho de trabalhar no exterior.
 Login: jotace-br                        Name: Júlio César
 Directory: /home/jc                     Shell: /usr/bin/meow
 Project:
-  - Audora Tecnologia e Serviços front-end developer
+  - front-end developer
   - Trabalhando em construir um portfólio para o futuro: <a href="https://www.pudim.com.br">por enquanto não tem nada :/</a>!
 Plano:
   Nunca parar de aprender \o/
