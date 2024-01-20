@@ -28,9 +28,7 @@ Tenho um sonho de trabalhar no exterior.
 
 ## Meus interesses ❤️ 
 
-**React, TypeScript, JavaScript e NextJS**
-
-**HTML & CSS**
+**React, NextJS, TypeScript, JavaScript, Antd, MUI, Redux, Tailwind CSS, Bootstrap, Shadcn/UI**
 
 ## Meus repositórios estão abaixo 👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jotace-br)
 
