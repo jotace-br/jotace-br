@@ -18,7 +18,7 @@
 </pre>
 
   
-Estou no momento em busca de um emprego 💻
+Atualmente trabalhando na Compare Games 💻
 
 Estou cursando ADS (Análise e Desenvolvimento de Sistemas) no momento.
 
