@@ -20,7 +20,7 @@
   
 Atualmente trabalhando na Compare Games 💻
 
-Estou cursando ADS (Análise e Desenvolvimento de Sistemas) no momento.
+Formado em ADS (Análise e Desenvolvimento de Sistemas).
 
 Adoro aprender e compartilhar **conhecimento** 😎️
 
@@ -51,7 +51,7 @@ Login: jotace-br                        Name: Júlio César
 Directory: /home/jc                     Shell: /usr/bin/meow
 Project:
   - front-end developer
-  - Trabalhando em construir um portfólio para o futuro: <a href="https://www.pudim.com.br">por enquanto não tem nada :/</a>!
+  - Trabalhando em construir um portfólio para o futuro: <a href="https://www.juliocesardev.com.br">Aqui está!</a>!
 Plano:
   Nunca parar de aprender \o/
 </pre>
