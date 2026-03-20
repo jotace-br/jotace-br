@@ -18,7 +18,7 @@
 </pre>
 
   
-Atualmente trabalhando na Compare Games 💻
+Atualmente trabalhando na Flutter Brazil 💻
 
 Formado em ADS (Análise e Desenvolvimento de Sistemas).
 
